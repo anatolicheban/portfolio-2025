@@ -26,13 +26,13 @@ const { projects } = Astro.props;
               </h3>
               <p class="text-base text-neutral">{summary}</p>
               <div class="flex gap-5 pt-10 text-white">
-                <a
-                  href={linkSource}
-                  target="_blank"
-                  class="after:relative after:bottom-[-5px] after:content-[url(/external.svg)] hover:underline"
-                >
-                  Source
-                </a>
+                <!--<a-->
+                <!--  href={linkSource}-->
+                <!--  target="_blank"-->
+                <!--  class="after:relative after:bottom-[-5px] after:content-[url(/external.svg)] hover:underline"-->
+                <!--&gt;-->
+                <!--  Source-->
+                <!--</a>-->
                 <a
                   href={linkPreview}
                   target="_blank"
@@ -44,7 +44,7 @@ const { projects } = Astro.props;
             </div>
             <div class="flex items-end justify-end overflow-hidden">
               <Image
-                class="h-full w-[95%] rounded-ss-xl rounded-ee-2xl object-none object-left-top sm:h-[85%] sm:w-full"
+                class="h-full w-[95%] rounded-ss-xl rounded-ee-2xl object-left-top sm:h-[85%] sm:w-full object-cover"
                 src={image}
                 alt={name}
                 width="736"

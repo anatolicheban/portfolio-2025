@@ -14,7 +14,10 @@ export const SITE_CONFIG: SiteConfig = {
   ],
   socialLinks: [
     { text: "Email", href: "mailto:tolik.cheban.2019@gmail.com" },
-    { text: "LinkedIn", href: "https://www.linkedin.com/in/anatoli-cheban-251959246/" },
+    {
+      text: "LinkedIn",
+      href: "https://www.linkedin.com/in/anatoli-cheban-251959246/",
+    },
     { text: "Github", href: "https://github.com/anatolicheban" },
     { text: "Telegram", href: "https://t.me/anatolicheban" },
   ],
@@ -33,7 +36,7 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "3DVisual",
-      position: "Frontend/Three.js Developer",
+      position: "Frontend / Three.js Developer",
       startDate: "Oct 2024",
       endDate: "present",
       summary: [
@@ -62,29 +65,28 @@ export const SITE_CONTENT: SiteContent = {
         "Developed responsive websites and custom WordPress themes based on Figma designs. Managed full project lifecycle from design to deployment, ensuring fast delivery and quality standards.",
         "Independently worked on 3D visualization projects using Three.js, focusing on interactive graphics, real-time rendering, and experimental web experiences.",
       ],
-    }
+    },
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/spotifu.png",
+      name: "3D Frame Configurator",
+      summary:
+        "A web application for customizing wooden frames, doors, and windows with real-time 3D visualization.",
+      linkPreview: "https://frames3d.vercel.app/?frame=62",
+      image: "/frames3d.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/shopify-clon.png",
+      name: "Modular House Configurator",
+      summary:
+        "An interactive 3D tool for designing modular houses with customizable layouts and real-time visualization.",
+      linkPreview: "https://houses3d.vercel.app/?mode=admin",
+      image: "/houses3d.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
-      linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      name: "Flightcase Configurator",
+      summary: "A 3D configurator for designing custom transport cases.",
+      linkPreview: "https://www.awcases.nl/configurator/?type=rack",
+      image: "/awcases.png",
     },
   ],
   about: {
@@ -96,5 +98,3 @@ export const SITE_CONTENT: SiteContent = {
     image: "/alejandro-big.jpg",
   },
 };
-
-// #5755ff
