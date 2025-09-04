@@ -6,7 +6,7 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Frontend & Fullstack Developer based in Europe, specializing in React, TypeScript, and advanced 3D experiences with Three.js. Experienced in building interactive applications, high-performance web platforms, and modern UI/UX.",
   lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+  siteLogo: "/avatar.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
@@ -95,6 +95,6 @@ export const SITE_CONTENT: SiteContent = {
 
     My experience spans from developing responsive websites and custom WordPress themes to building advanced 3D configurators and full-stack applications with React, NestJS, and Three.js. I focus on clean architecture, high performance, and delivering products that combine functionality with a strong user experience.
   `,
-    image: "/alejandro-big.jpg",
+    image: "/avatar.jpg",
   },
 };
