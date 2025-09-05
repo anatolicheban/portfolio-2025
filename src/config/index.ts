@@ -36,7 +36,7 @@ export const SITE_CONTENT: SiteContent = {
   experience: [
     {
       company: "3DVisual",
-      position: "Frontend / Three.js Developer",
+      position: "Fullstack / Three.js Developer",
       startDate: "Oct 2024",
       endDate: "present",
       summary: [
