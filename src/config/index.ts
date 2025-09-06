@@ -76,7 +76,14 @@ export const SITE_CONTENT: SiteContent = {
       image: "/frames3d.png",
     },
     {
-      name: "Modular House Configurator",
+      name: "3D Art Gallery",
+      summary:
+        "An interactive 3D gallery showcasing famous paintings in a virtual exhibition space with smooth navigation and realistic rendering.",
+      linkPreview: "https://3d-gallery-by-anatoli.vercel.app/",
+      image: "/gallery.png",
+    },
+    {
+      name: "3D Gallery",
       summary:
         "An interactive 3D tool for designing modular houses with customizable layouts and real-time visualization.",
       linkPreview: "https://houses3d.vercel.app/?mode=admin",
