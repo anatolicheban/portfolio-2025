@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Anatoli Cheban — Fullstack/Three.js Developer",
   author: "Anatoli Cheban",
   description:
-    "Frontend & Fullstack Developer based in Europe, specializing in React, TypeScript, and advanced 3D experiences with Three.js. Experienced in building interactive applications, high-performance web platforms, and modern UI/UX.",
+    "Frontend & Fullstack Developer based in Spain, specializing in React, TypeScript, and advanced 3D experiences with Three.js. Experienced in building interactive applications, high-performance web platforms, and modern UI/UX.",
   lang: "en",
   siteLogo: "/avatar.jpg",
   navLinks: [
@@ -30,7 +30,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Anatoli Cheban",
     specialty: "Fullstack/Three.js Developer",
     summary:
-      "Frontend & Fullstack Developer based in Europe, specializing in React, TypeScript, and advanced 3D experiences with Three.js. Experienced in building interactive applications, high-performance web platforms, and modern UI/UX.",
+      "Frontend & Fullstack Developer based in Spain, specializing in React, TypeScript, and advanced 3D experiences with Three.js. Experienced in building interactive applications, high-performance web platforms, and modern UI/UX.",
     email: "tolik.cheban.2019@gmail.com",
   },
   experience: [
