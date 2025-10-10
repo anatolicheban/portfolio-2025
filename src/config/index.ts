@@ -83,7 +83,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/gallery.png",
     },
     {
-      name: "3D Gallery",
+      name: "3D Houses Configurator",
       summary:
         "An interactive 3D tool for designing modular houses with customizable layouts and real-time visualization.",
       linkPreview: "https://houses3d.vercel.app/?mode=admin",
