@@ -13,13 +13,13 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Email", href: "mailto:tolik.cheban.2019@gmail.com" },
-    {
-      text: "LinkedIn",
-      href: "https://www.linkedin.com/in/anatoli-cheban-251959246/",
-    },
-    { text: "Github", href: "https://github.com/anatolicheban" },
-    { text: "Telegram", href: "https://t.me/anatolicheban" },
+    // { text: "Email", href: "mailto:tolik.cheban.2019@gmail.com" },
+    // {
+    //   text: "LinkedIn",
+    //   href: "https://www.linkedin.com/in/anatoli-cheban-251959246/",
+    // },
+    // { text: "Github", href: "https://github.com/anatolicheban" },
+    // { text: "Telegram", href: "https://t.me/anatolicheban" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
