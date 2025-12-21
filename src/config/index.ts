@@ -22,7 +22,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Telegram", href: "https://t.me/anatolicheban" },
   ],
   socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  canonicalURL: "https://anatolicheban.vercel.app/",
 };
 
 export const SITE_CONTENT: SiteContent = {
